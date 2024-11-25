@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "70a5",
+      "title": "Задача",
+      "completed": false
+    },
+    {
+      "id": "3d58",
+      "title": "Купить много хлеба",
+      "completed": false
+    }
+  ]
+}
